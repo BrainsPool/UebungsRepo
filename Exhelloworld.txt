@@ -4,4 +4,6 @@ zweite änderung im branch
 
 hier wird in einem anderen Branch gearbeitet
 
-als nächstes komm eine weiter änderung und der add zum remote repo
+als nächstes kommt eine weitere änderung und der add zum remote repo
+
+jetzt ist der teil online bearbeitet worden
